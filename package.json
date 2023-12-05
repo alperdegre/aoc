@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "dayone": "nodemon --exec ts-node ./aoc2023/day1/index.ts"
+  }
+}
