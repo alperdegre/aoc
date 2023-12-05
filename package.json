@@ -5,6 +5,7 @@
     "typescript": "^5.3.2"
   },
   "scripts": {
-    "dayone": "nodemon --exec ts-node ./aoc2023/day1/index.ts"
+    "dayone": "nodemon --exec ts-node ./aoc2023/day1/index.ts",
+    "daytwo": "nodemon --exec ts-node ./aoc2023/day2/index.ts"
   }
 }
