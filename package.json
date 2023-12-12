@@ -7,6 +7,7 @@
   "scripts": {
     "dayone": "nodemon --exec ts-node ./aoc2023/day1/index.ts",
     "daytwo": "nodemon --exec ts-node ./aoc2023/day2/index.ts",
-    "daythree": "nodemon --exec ts-node ./aoc2023/day3/index.ts"
+    "daythree": "nodemon --exec ts-node ./aoc2023/day3/index.ts",
+    "dayfour": "nodemon --exec ts-node ./aoc2023/day4/index.ts"
   }
 }
